@@ -1,0 +1,15 @@
+.env
+config.json
+logs/*
+.venv
+*.pyc
+__pychache__
+**__pycache__
+.coverage
+coverage.json
+.pytest_cache
+**.db
+
+**/vectors
+**.db
+**/uploads
